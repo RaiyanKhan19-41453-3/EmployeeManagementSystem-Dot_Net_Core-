@@ -1,0 +1,14 @@
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.deps.json
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.runtimeconfig.json
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.dll
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\bin\Debug\net6.0\DataAccesLayer.pdb
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.AssemblyReference.cache
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfoInputs.cache
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.AssemblyInfo.cs
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.csproj.CoreCompileInputs.cache
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.dll
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\refint\DataAccesLayer.dll
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.pdb
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\DataAccesLayer.genruntimeconfig.cache
+H:\A Clone Project\EmployeeManagement\DataAccesLayer\obj\Debug\net6.0\ref\DataAccesLayer.dll

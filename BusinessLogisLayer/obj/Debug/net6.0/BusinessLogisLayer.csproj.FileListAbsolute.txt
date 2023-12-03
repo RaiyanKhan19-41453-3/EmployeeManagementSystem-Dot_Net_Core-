@@ -1,0 +1,15 @@
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.csproj.AssemblyReference.cache
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.GeneratedMSBuildEditorConfig.editorconfig
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.AssemblyInfoInputs.cache
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.AssemblyInfo.cs
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.csproj.CoreCompileInputs.cache
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\bin\Debug\net6.0\BusinessLogisLayer.deps.json
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\bin\Debug\net6.0\BusinessLogisLayer.dll
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\bin\Debug\net6.0\BusinessLogisLayer.pdb
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\bin\Debug\net6.0\DataAccesLayer.dll
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\bin\Debug\net6.0\DataAccesLayer.pdb
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.csproj.CopyComplete
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.dll
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\refint\BusinessLogisLayer.dll
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\BusinessLogisLayer.pdb
+H:\A Clone Project\EmployeeManagement\BusinessLogisLayer\obj\Debug\net6.0\ref\BusinessLogisLayer.dll
