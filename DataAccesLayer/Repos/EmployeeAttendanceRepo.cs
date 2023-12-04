@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace DataAccesLayer.Repos
 {
-    public class EmployeeAttendanceRepo : IRepo<tblEmployeeAttendance, bool>
+    public class EmployeeAttendanceRepo : IRepo<tblEmployeeAttendance, int,  bool>
     {
         private readonly DataContext db;
         public EmployeeAttendanceRepo(DataContext db)
@@ -24,11 +24,10 @@ namespace DataAccesLayer.Repos
             return db.SaveChanges() > 0;
         }
 
-        public tblEmployeeAttendance Delete(int id)
+        public bool Delete(int id)
         {
             db.tblEmpAttendances.Remove(Get(id));
-            db.SaveChanges();
-            return Get(id);
+            return db.SaveChanges() > 0;
         }
 
         public tblEmployeeAttendance Get(int id)

@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace DataAccesLayer.Interfaces
 {
-    public interface IRepo<CLASS, RTN>
+    public interface IRepo<CLASS, ID, RTN>
     {
         RTN Create(CLASS cLass);
-        CLASS Get(int id);
+        CLASS Get(ID id);
         RTN Update(CLASS cLass);
-        CLASS Delete(int id);
+        bool Delete(ID id);
         List<CLASS> GetAll();
     }
 }

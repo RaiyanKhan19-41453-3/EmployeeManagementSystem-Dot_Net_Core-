@@ -13,6 +13,9 @@ namespace DataAccesLayer.EF.Models
         [Key]
         public int Id { get; set; }
 
+        [ForeignKey("Employee")]
+        public int employeeId { get; set; }
+
         [Required]
         public DateTime attendanceDate { get; set; }
 
@@ -25,10 +28,7 @@ namespace DataAccesLayer.EF.Models
         [Required]
         public int isOffday { get; set; }
 
-        [ForeignKey("Employee")]
-        public int employeeId { get; set; }
-
-
+        
 
 
         public virtual tblEmployee Employee { get; set; }

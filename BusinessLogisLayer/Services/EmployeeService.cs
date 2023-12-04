@@ -16,10 +16,10 @@ namespace BusinessLogisLayer.Services
 {
     public class EmployeeService:IEmployeeService
     {
-        private readonly IRepo<tblEmployee, bool> _employeeRepo;
-        private readonly IRepo<tblEmployeeAttendance, bool> _employeeAttendanceRepo;
-        public EmployeeService(IRepo<tblEmployee, bool> employeeRepo, 
-                               IRepo<tblEmployeeAttendance, bool> employeeAttendanceRepo)
+        private readonly IRepo<tblEmployee, int, bool> _employeeRepo;
+        private readonly IRepo<tblEmployeeAttendance, int, bool> _employeeAttendanceRepo;
+        public EmployeeService(IRepo<tblEmployee, int, bool> employeeRepo, 
+                               IRepo<tblEmployeeAttendance, int, bool> employeeAttendanceRepo)
         {
             _employeeRepo = employeeRepo;
             _employeeAttendanceRepo = employeeAttendanceRepo;

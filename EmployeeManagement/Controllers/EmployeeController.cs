@@ -1,6 +1,7 @@
 using BusinessLogisLayer.DTOs;
 using BusinessLogisLayer.IServices;
 using BusinessLogisLayer.Services;
+using EmployeeManagement.AuthFilters;
 using Microsoft.AspNetCore.Mvc;
 using System.Net;
 
@@ -106,7 +107,8 @@ namespace EmployeeManagement.Controllers
                 return NotFound(ex.Message);
             }
         }
-
+        //[ServiceFilter(typeof(Logged))]
+        [Logged]
         [HttpGet]
         [Route("GetAttendanceReport")]
         public IActionResult AttendanceReport()
